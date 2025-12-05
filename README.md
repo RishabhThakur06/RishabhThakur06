@@ -25,4 +25,4 @@ I'm a CS undergrad, aspiring to be a software developer.
 
 ## Github Stats
 <div align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=ShankhanilSaha&theme=dark&hide_border=true&card_width=705" alt="" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=RishabhThakur06&theme=dark&hide_border=true&card_width=705" alt="" />
