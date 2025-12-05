@@ -21,7 +21,7 @@ I'm a CS undergrad, aspiring to be a software developer.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ##  Holopin Badges
-[![An image of @RishabhThakur06's Holopin badges](https://holopin.me/shankhanilsaha)](https://holopin.io/@shankhanilsaha)
+[![An image of @RishabhThakur06's Holopin badges](https://holopin.me/Rishabhthakur06)](https://holopin.io/@RishabhThakur06)
 
 ## Github Stats
 <div align="center">
