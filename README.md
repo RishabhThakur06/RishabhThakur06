@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/736x/3a/c3/33/3ac3333a2ef4a94928c984b55f10b4c7.jpg" height = 500px width = 720px >
+<img src="https://i.pinimg.com/736x/3a/c3/33/3ac3333a2ef4a94928c984b55f10b4c7.jpg" height = "500px" width = "1400px" >
 
 ##  About Me
 I'm a CS undergrad, aspiring to be a software developer.
