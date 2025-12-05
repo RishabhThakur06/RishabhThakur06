@@ -1,4 +1,4 @@
-<img src="https://media1.tenor.com/m/-HaiI7HZBQoAAAAd/guts-relief.gif" width="1000">
+<img src="https://itunes.apple.com/app/apple-store/id917932200?pt=39040802&ct=Media1GIFV2&mt=8" width="1000">
 
 ##  About Me
 I'm a CS undergrad, aspiring to be a software developer.
