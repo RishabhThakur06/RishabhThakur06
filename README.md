@@ -1,4 +1,4 @@
-<img src="https://media1.tenor.com/m/-HaiI7HZBQoAAAAC/guts-relief.gif" width="1000">
+<img src="blob:https://www.pinterest.com/83fafbb7-89d3-477a-bddd-8f76b28fc9f2" width="1000">
 
 ##  About Me
 I'm a CS undergrad, aspiring to be a software developer.
