@@ -1,4 +1,4 @@
-<img src="blob:https://www.pinterest.com/83fafbb7-89d3-477a-bddd-8f76b28fc9f2" width="1000">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fmusashi-miyamoto-colorfull--39758409203140382%2F&psig=AOvVaw1DQmvqSv2P4UwecJrPWWh6&ust=1765003843839000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwiJjLHq7aWRAxXc76ACHeT9Ac8QjRx6BAgAEBo" width="1000">
 
 ##  About Me
 I'm a CS undergrad, aspiring to be a software developer.
