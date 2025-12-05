@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/qkgAHY2opyUAAAAe/banner-anime.png" height = "500px" width = "1400px" >
+<img src="https://media1.tenor.com/m/qkgAHY2opyUAAAAd/banner-anime.gif" height = "500px" width = "1400px" >
 
 ##  About Me
 I'm a CS undergrad, aspiring to be a software developer.
