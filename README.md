@@ -27,4 +27,5 @@ I'm a CS undergrad, aspiring to be a software developer.
 ## Github Stats
 <div align="center">
 <img src="https://nirzak-streak-stats.vercel.app/?user=RishabhThakur06&theme=dark&hide_border=true&card_width=705" alt="" />
-![border](https://via.placeholder.com/800x2/000000/000000?text=)
+## END
+![border](https://placehold.co/1400x25/000000/FFF?text=Rishabh+Thakur)
